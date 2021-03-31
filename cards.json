@@ -1,0 +1,41 @@
+{
+    "001":{
+        "name":"Um Gato",
+        "atk":500,
+        "def":300,
+        "nivel":2,
+        "src": "https://static.wikia.nocookie.net/yugioh/images/3/30/ACatofIllOmen-DR1-PT-C-UE.jpg/revision/latest/scale-to-width-down/300?cb=20160902211915&path-prefix=pt"
+    },
+
+    "002":{
+        "name":"Um Homem",
+        "atk":600,
+        "def":400,
+        "nivel":3,
+        "src": "https://static.wikia.nocookie.net/yugioh/images/0/03/AManwithWdjat-DR1-PT-C-UE.jpg/revision/latest/scale-to-width-down/300?cb=20160831131803&path-prefix=pt"
+    },
+
+    "003":{
+        "name":"Núcleo de Assalto",
+        "atk":550,
+        "def":450,
+        "nivel":3,
+        "src": "https://static.wikia.nocookie.net/yugioh/images/3/38/AAssaultCore-SDKS-PT-SR-1E.jpg/revision/latest/scale-to-width-down/300?cb=20170411201412&path-prefix=pt"
+    },
+
+    "004":{
+        "name":"Desativação de Armadilhas",
+        "atk":545,
+        "def":350,
+        "nivel":3,
+        "src": "https://static.wikia.nocookie.net/yugioh/images/2/20/ATeamTrapDisposalUnit-RDS-PT-R-1E.jpg/revision/latest/scale-to-width-down/300?cb=20160207165833&path-prefix=pt"
+    },
+
+    "005":{
+        "name":"Abaki",
+        "atk":620,
+        "def":120,
+        "nivel":2,
+        "src": "https://static.wikia.nocookie.net/yugioh/images/3/37/Abaki-YSDS-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20171216112112&path-prefix=pt"
+    },
+}
